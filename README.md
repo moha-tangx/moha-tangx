@@ -6,7 +6,7 @@
 👋 Hey there! moha_tangx here. <br>
  A passionate, self motivated 👨🏿‍💻 software developer and a student of software engineering who
  loves creating stunning and interractive frontend 📱 web and mobile applications and also powerful backend  applications with  <br>
-<b>javaScript</b>
+<b>javaScript</b> and <b>GO<b>
 </p>
 
 <br>
